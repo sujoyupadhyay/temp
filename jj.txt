@@ -1,0 +1,43 @@
+IT Software Product Development Freelancer – Prerequisites & Draft Plan
+
+1st Iteration:-
+Market Presence
+- Portfolio website
+- LinkedIn, GitHub, freelance profiles
+- Case studies
+ 
+Define Your Service Offering
+- Choose a focused service (SaaS MVPs, Web Apps, Mobile Apps, APIs, Cloud, AI, Jira Automation, etc.)
+- Define target customer and business outcome.
+Skill & Capability Readiness
+- Document core tech stack
+- Document product development practices
+- Build 3 portfolio projects with architecture and outcomes
+Legal & Business Setup (India)
+- Choose business structure
+- Setup PAN, GST if applicable, invoicing
+- Prepare contracts (MSA, SOW, NDA)
+2nd Iteration:-
+Client Acquisition
+- Weekly outreach goals
+- Networking and proposal system
+Finance Setup
+- Define pricing model
+- Track revenue, expenses, taxes
+- Maintain emergency runway
+Build Operating System
+- Development tools
+- Project management
+- Documentation and CRM
+Delivery Framework
+- Discovery
+- Build
+- Release
+- Support
+Scale
+- Solo → Team → Consultancy
+90-Day Execution Plan
+Days 1–15: Niche + portfolio + setup
+Days 16–30: Publish + outreach
+Days 31–60: First client
+Days 61–90: Testimonials + pricing + pipeline
